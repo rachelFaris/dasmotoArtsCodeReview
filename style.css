@@ -1,0 +1,49 @@
+
+
+
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3 {
+    font-weight: 600;
+}
+
+h1 {
+    background-image: url(images/pattern.jpeg);
+    text-align: center;
+    font-size: 100px;
+    color: khaki;
+}
+
+.header-h2 {
+    color: white;
+    font-size: 32px;
+}
+
+.brushes-section h2 {
+background-color: mediumspringgreen;
+}
+
+.frames-section h2 {
+    background-color: lightcoral;
+}
+
+.paint-section h2 {
+    background-color: skyblue;
+}
+
+.brushes-section h3, .frames-section h3, .paint-section h3 {
+    font-size: 24px;
+}
+
+.brushes-section p, .frames-section p, .paint-section p {
+    font-size: 20px;
+}
+
+.price-highlight {
+    color: blue;
+}
+
+
